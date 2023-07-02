@@ -241,7 +241,7 @@ h2.title {
 	background-color: #201e1e;
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1200px) {
 	body {
 		padding: 20px;
 	}
